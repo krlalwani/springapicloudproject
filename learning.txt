@@ -1,0 +1,2 @@
+for microservices to talk to each other - use Feign framework
+i.e., if a users api talks to albums api use feign and invoke methods in interface to album api
